@@ -11,6 +11,24 @@ class App extends Component {
         <p className="content">
           Welcome!
         </p>
+        <div className='content-stripe'>
+          <h1 className='content-title'>
+            - Bio
+          </h1>
+        </div>
+        <p className="content">
+          txt
+        </p>
+        <div className='blue'>
+          <h1 className='content-title'>
+            - LinkedIn
+            - CV
+            - Portfolio
+          </h1>
+        </div>
+        <p className="content">
+          txt
+        </p>
       </div>
     );
   }

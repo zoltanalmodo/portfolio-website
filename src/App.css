@@ -5,7 +5,7 @@
 .header {
   background-color: #222;
   height: 70px;
-  padding: 20px;
+  padding: 10px 88px 10px 88px;
   color: white;
 }
 
@@ -13,7 +13,18 @@
   font-size: 1.5em;
 }
 
+.content-stripe {
+  background-color: rgb(44, 44, 44);
+  height: 70px;
+  padding: 10px 88px 10px 88px;
+  color: white;
+}
+
+.content-title {
+  font-size: 1.5em;
+}
+
 .content {
   font-size: large;
-  padding: 20px;
+  padding: 10px 88px 10px 88px;
 }
